@@ -1,0 +1,399 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		041C3A721CCDF80200FBBC87 /* UIView+Frame.m in Sources */ = {isa = PBXBuildFile; fileRef = 041C3A711CCDF80200FBBC87 /* UIView+Frame.m */; };
+		04D1896E1CCE08A300D147E1 /* laController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04D1896C1CCE08A300D147E1 /* laController.m */; };
+		04D1896F1CCE08A300D147E1 /* laController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 04D1896D1CCE08A300D147E1 /* laController.xib */; };
+		04F6D7F91CCB02BF002D0513 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F6D7F81CCB02BF002D0513 /* main.m */; };
+		04F6D7FC1CCB02BF002D0513 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F6D7FB1CCB02BF002D0513 /* AppDelegate.m */; };
+		04F6D7FF1CCB02BF002D0513 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F6D7FE1CCB02BF002D0513 /* ViewController.m */; };
+		04F6D8021CCB02BF002D0513 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04F6D8001CCB02BF002D0513 /* Main.storyboard */; };
+		04F6D8041CCB02BF002D0513 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04F6D8031CCB02BF002D0513 /* Assets.xcassets */; };
+		04F6D8071CCB02BF002D0513 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04F6D8051CCB02BF002D0513 /* LaunchScreen.storyboard */; };
+		04F6D8101CCB038A002D0513 /* saoMiaoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04F6D80F1CCB038A002D0513 /* saoMiaoViewController.m */; };
+		04F6D8121CCB05FD002D0513 /* beep.wav in Resources */ = {isa = PBXBuildFile; fileRef = 04F6D8111CCB05FD002D0513 /* beep.wav */; };
+		04F7B7E71CCF05A8008943F7 /* 1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04F7B7E61CCF05A8008943F7 /* 1.jpg */; };
+		04FC99EE1CCE6D940028D45E /* shengChengViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04FC99ED1CCE6D940028D45E /* shengChengViewController.m */; };
+		04FC99F21CCE76100028D45E /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04FC99F01CCE76100028D45E /* RootViewController.m */; };
+		04FC99F31CCE76100028D45E /* RootViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 04FC99F11CCE76100028D45E /* RootViewController.xib */; };
+		04FF27431CCF6F5100F91A5E /* 12.png in Resources */ = {isa = PBXBuildFile; fileRef = 04FF27421CCF6F5100F91A5E /* 12.png */; };
+		04FF27451CCF950700F91A5E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04FF27441CCF950700F91A5E /* Images.xcassets */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		041C3A701CCDF80200FBBC87 /* UIView+Frame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Frame.h"; sourceTree = "<group>"; };
+		041C3A711CCDF80200FBBC87 /* UIView+Frame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Frame.m"; sourceTree = "<group>"; };
+		04D1896B1CCE08A300D147E1 /* laController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = laController.h; sourceTree = "<group>"; };
+		04D1896C1CCE08A300D147E1 /* laController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = laController.m; sourceTree = "<group>"; };
+		04D1896D1CCE08A300D147E1 /* laController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = laController.xib; sourceTree = "<group>"; };
+		04F6D7F41CCB02BE002D0513 /* 二维码.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "二维码.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		04F6D7F81CCB02BF002D0513 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		04F6D7FA1CCB02BF002D0513 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		04F6D7FB1CCB02BF002D0513 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		04F6D7FD1CCB02BF002D0513 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		04F6D7FE1CCB02BF002D0513 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		04F6D8011CCB02BF002D0513 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		04F6D8031CCB02BF002D0513 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		04F6D8061CCB02BF002D0513 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		04F6D8081CCB02BF002D0513 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04F6D80E1CCB038A002D0513 /* saoMiaoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = saoMiaoViewController.h; path = "二维码/saoMiaoViewController.h"; sourceTree = "<group>"; };
+		04F6D80F1CCB038A002D0513 /* saoMiaoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = saoMiaoViewController.m; path = "二维码/saoMiaoViewController.m"; sourceTree = "<group>"; };
+		04F6D8111CCB05FD002D0513 /* beep.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = beep.wav; sourceTree = "<group>"; };
+		04F7B7E61CCF05A8008943F7 /* 1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1.jpg; sourceTree = "<group>"; };
+		04FC99EC1CCE6D940028D45E /* shengChengViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = shengChengViewController.h; sourceTree = "<group>"; };
+		04FC99ED1CCE6D940028D45E /* shengChengViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = shengChengViewController.m; sourceTree = "<group>"; };
+		04FC99EF1CCE76100028D45E /* RootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RootViewController.h; path = "二维码/RootViewController.h"; sourceTree = "<group>"; };
+		04FC99F01CCE76100028D45E /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RootViewController.m; path = "二维码/RootViewController.m"; sourceTree = "<group>"; };
+		04FC99F11CCE76100028D45E /* RootViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = RootViewController.xib; path = "二维码/RootViewController.xib"; sourceTree = "<group>"; };
+		04FF27421CCF6F5100F91A5E /* 12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 12.png; sourceTree = "<group>"; };
+		04FF27441CCF950700F91A5E /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		04F6D7F11CCB02BE002D0513 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		041C3A6F1CCDF80200FBBC87 /* 重写frmae */ = {
+			isa = PBXGroup;
+			children = (
+				041C3A701CCDF80200FBBC87 /* UIView+Frame.h */,
+				041C3A711CCDF80200FBBC87 /* UIView+Frame.m */,
+			);
+			path = "重写frmae";
+			sourceTree = "<group>";
+		};
+		04F6D7EB1CCB02BE002D0513 = {
+			isa = PBXGroup;
+			children = (
+				04F7B7E61CCF05A8008943F7 /* 1.jpg */,
+				04FF27421CCF6F5100F91A5E /* 12.png */,
+				04FC99F41CCE76160028D45E /* Root */,
+				04FC99EB1CCE6D610028D45E /* 扫描二维码 */,
+				04FC99EA1CCE6D550028D45E /* 生成二维码 */,
+				041C3A6F1CCDF80200FBBC87 /* 重写frmae */,
+				04F6D7F61CCB02BE002D0513 /* 二维码 */,
+				04F6D7F51CCB02BE002D0513 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		04F6D7F51CCB02BE002D0513 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				04F6D7F41CCB02BE002D0513 /* 二维码.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		04F6D7F61CCB02BE002D0513 /* 二维码 */ = {
+			isa = PBXGroup;
+			children = (
+				04F6D8111CCB05FD002D0513 /* beep.wav */,
+				04F6D7FA1CCB02BF002D0513 /* AppDelegate.h */,
+				04F6D7FB1CCB02BF002D0513 /* AppDelegate.m */,
+				04F6D7FD1CCB02BF002D0513 /* ViewController.h */,
+				04F6D7FE1CCB02BF002D0513 /* ViewController.m */,
+				04F6D8001CCB02BF002D0513 /* Main.storyboard */,
+				04F6D8031CCB02BF002D0513 /* Assets.xcassets */,
+				04F6D8051CCB02BF002D0513 /* LaunchScreen.storyboard */,
+				04F6D8081CCB02BF002D0513 /* Info.plist */,
+				04FF27441CCF950700F91A5E /* Images.xcassets */,
+				04F6D7F71CCB02BE002D0513 /* Supporting Files */,
+			);
+			path = "二维码";
+			sourceTree = "<group>";
+		};
+		04F6D7F71CCB02BE002D0513 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				04F6D7F81CCB02BF002D0513 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		04FC99EA1CCE6D550028D45E /* 生成二维码 */ = {
+			isa = PBXGroup;
+			children = (
+				04FC99EC1CCE6D940028D45E /* shengChengViewController.h */,
+				04FC99ED1CCE6D940028D45E /* shengChengViewController.m */,
+			);
+			name = "生成二维码";
+			sourceTree = "<group>";
+		};
+		04FC99EB1CCE6D610028D45E /* 扫描二维码 */ = {
+			isa = PBXGroup;
+			children = (
+				04D1896B1CCE08A300D147E1 /* laController.h */,
+				04D1896C1CCE08A300D147E1 /* laController.m */,
+				04D1896D1CCE08A300D147E1 /* laController.xib */,
+				04F6D80E1CCB038A002D0513 /* saoMiaoViewController.h */,
+				04F6D80F1CCB038A002D0513 /* saoMiaoViewController.m */,
+			);
+			name = "扫描二维码";
+			sourceTree = "<group>";
+		};
+		04FC99F41CCE76160028D45E /* Root */ = {
+			isa = PBXGroup;
+			children = (
+				04FC99EF1CCE76100028D45E /* RootViewController.h */,
+				04FC99F01CCE76100028D45E /* RootViewController.m */,
+				04FC99F11CCE76100028D45E /* RootViewController.xib */,
+			);
+			name = Root;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		04F6D7F31CCB02BE002D0513 /* 二维码 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 04F6D80B1CCB02BF002D0513 /* Build configuration list for PBXNativeTarget "二维码" */;
+			buildPhases = (
+				04F6D7F01CCB02BE002D0513 /* Sources */,
+				04F6D7F11CCB02BE002D0513 /* Frameworks */,
+				04F6D7F21CCB02BE002D0513 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "二维码";
+			productName = "二维码";
+			productReference = 04F6D7F41CCB02BE002D0513 /* 二维码.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		04F6D7EC1CCB02BE002D0513 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = mac;
+				TargetAttributes = {
+					04F6D7F31CCB02BE002D0513 = {
+						CreatedOnToolsVersion = 7.2;
+						DevelopmentTeam = WQJJKU758W;
+					};
+				};
+			};
+			buildConfigurationList = 04F6D7EF1CCB02BE002D0513 /* Build configuration list for PBXProject "二维码" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 04F6D7EB1CCB02BE002D0513;
+			productRefGroup = 04F6D7F51CCB02BE002D0513 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				04F6D7F31CCB02BE002D0513 /* 二维码 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		04F6D7F21CCB02BE002D0513 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04FF27451CCF950700F91A5E /* Images.xcassets in Resources */,
+				04F6D8121CCB05FD002D0513 /* beep.wav in Resources */,
+				04D1896F1CCE08A300D147E1 /* laController.xib in Resources */,
+				04FC99F31CCE76100028D45E /* RootViewController.xib in Resources */,
+				04F6D8071CCB02BF002D0513 /* LaunchScreen.storyboard in Resources */,
+				04FF27431CCF6F5100F91A5E /* 12.png in Resources */,
+				04F6D8041CCB02BF002D0513 /* Assets.xcassets in Resources */,
+				04F7B7E71CCF05A8008943F7 /* 1.jpg in Resources */,
+				04F6D8021CCB02BF002D0513 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		04F6D7F01CCB02BE002D0513 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04F6D7FF1CCB02BF002D0513 /* ViewController.m in Sources */,
+				04F6D7FC1CCB02BF002D0513 /* AppDelegate.m in Sources */,
+				04FC99F21CCE76100028D45E /* RootViewController.m in Sources */,
+				04F6D8101CCB038A002D0513 /* saoMiaoViewController.m in Sources */,
+				04FC99EE1CCE6D940028D45E /* shengChengViewController.m in Sources */,
+				041C3A721CCDF80200FBBC87 /* UIView+Frame.m in Sources */,
+				04D1896E1CCE08A300D147E1 /* laController.m in Sources */,
+				04F6D7F91CCB02BF002D0513 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		04F6D8001CCB02BF002D0513 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				04F6D8011CCB02BF002D0513 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		04F6D8051CCB02BF002D0513 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				04F6D8061CCB02BF002D0513 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		04F6D8091CCB02BF002D0513 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		04F6D80A1CCB02BF002D0513 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		04F6D80C1CCB02BF002D0513 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				INFOPLIST_FILE = "二维码/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.qianfeng.qrcode11;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		04F6D80D1CCB02BF002D0513 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				INFOPLIST_FILE = "二维码/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.qianfeng.qrcode11;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		04F6D7EF1CCB02BE002D0513 /* Build configuration list for PBXProject "二维码" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04F6D8091CCB02BF002D0513 /* Debug */,
+				04F6D80A1CCB02BF002D0513 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		04F6D80B1CCB02BF002D0513 /* Build configuration list for PBXNativeTarget "二维码" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04F6D80C1CCB02BF002D0513 /* Debug */,
+				04F6D80D1CCB02BF002D0513 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 04F6D7EC1CCB02BE002D0513 /* Project object */;
+}
